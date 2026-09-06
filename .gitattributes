@@ -1,0 +1,6 @@
+*.docx binary
+*.onnx binary
+*.pdf binary
+*.png binary
+*.pptx binary
+*.xlsx binary

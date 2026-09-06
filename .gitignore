@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.pytest_cache/
+.venv/
+.vscode/
+__pycache__/
+*.egg-info/
+*.py[cod]
+build/
+dist/
+combined.txt
+tests/.work/

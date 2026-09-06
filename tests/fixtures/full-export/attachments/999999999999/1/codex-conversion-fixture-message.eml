@@ -1,0 +1,24 @@
+Subject: Synthetic fixture message
+From: sender@example.test
+To: recipient@example.test
+Date: Thu, 01 Jan 2026 00:00:00 +0000
+Message-ID: <confluence-fixture@example.test>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============confluence-fixture=="
+
+--===============confluence-fixture==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Synthetic EML body in English.
+Синтетическое тело письма на русском.
+
+--===============confluence-fixture==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="embedded-metrics.csv"
+MIME-Version: 1.0
+
+bmFtZSx2YWx1ZQplbWJlZGRlZCw3Cg==
+
+--===============confluence-fixture==--

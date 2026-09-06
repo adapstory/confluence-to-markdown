@@ -1,0 +1,114 @@
+{
+  "files": {
+    "_codex_conversion_fixture.html": {
+      "bytes": 5688,
+      "sha256": "34b5e828fef34c308bb0d4a8b6be7d400a32e840e2eb2fc17c47bbf17f108dd2"
+    },
+    "_codex_conversion_fixture_assets/theme.css": {
+      "bytes": 171,
+      "sha256": "e0fa8dae3c5722df702022008e90b14820f0cc0b91f751897c80f38e591277ad"
+    },
+    "_codex_conversion_fixture_assets/theme.js": {
+      "bytes": 125,
+      "sha256": "1a66f61d6adda880dd27d69dc3eed56e23e3f24c2fbd5e805de68586f31b44e1"
+    },
+    "_codex_conversion_fixture_child.html": {
+      "bytes": 719,
+      "sha256": "4136ca1500a4623ddf719560b5f8446b0ac428f20c47f8b1f63e309343ff825f"
+    },
+    "_codex_conversion_fixture_toc.html": {
+      "bytes": 431,
+      "sha256": "5cd12ab734f43093ad6474dd375a42b2d114b7acec7f087ef1103e21ae562b98"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-briefing.pptx": {
+      "bytes": 1898,
+      "sha256": "ebac649532a8c0b3b1a5a80f954dca4f13aa326a40e13278bbcadeca3a63b09b"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-config.yaml": {
+      "bytes": 31,
+      "sha256": "444b7296019113f5e32d7d6e33541487739ffbf79fc0db263230a7a6c129e746"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-data.csv": {
+      "bytes": 26,
+      "sha256": "02ca416c7ad1e7e084a62a387fc8c330ab5864c0ee8635249966638eb299c77d"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-data.json": {
+      "bytes": 69,
+      "sha256": "3f015e8b4c50a6819cfc0982140411649b760fc61e704e980592b2aa3001a2da"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-flow.drawio": {
+      "bytes": 1040,
+      "sha256": "94547a3223526c95e22cd15ea5cd2544565905ee9fb71ee83f1f5ee57c7b4ac0"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-fragment.html": {
+      "bytes": 119,
+      "sha256": "3350749689a3ba3972196ff347af0d88cc48f55e98b8f8201aee2b41616cb2da"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-guide.md": {
+      "bytes": 72,
+      "sha256": "769d771cfa0d863c397b4f76aa16e3e073856ee5d86d5ee8d50bada05da9bedc"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-message.eml": {
+      "bytes": 737,
+      "sha256": "c212129f0313afca40822a6ac08e7faf7a291798384905eb6f94fa7483a8324c"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-metrics.xlsx": {
+      "bytes": 1691,
+      "sha256": "304595e3ea5f9a40f87ef65e2be284acb2950967418af47a0ce04a78351e76f8"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-notes.txt": {
+      "bytes": 112,
+      "sha256": "c06d59c359b5b6a5e5f6992a389ae7ddfa52366ec46f14432abb9c0735b17642"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-requirements.docx": {
+      "bytes": 1060,
+      "sha256": "36490cbd57a82535431832ccfaa8e3a1db1f9bbf3d730536b152a449137bfba8"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-scan.pdf": {
+      "bytes": 16067,
+      "sha256": "5263b37471a3dba3c207def0654efeff64af90f1c5500cb64e8cced95b77ee8b"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-text.pdf": {
+      "bytes": 654,
+      "sha256": "48153ff751f673c9bbf8918e76a02473899dce27ee2c71a32e29b3eebcd8d552"
+    },
+    "attachments/999999999999/1/codex-conversion-fixture-vector.svg": {
+      "bytes": 354,
+      "sha256": "386232c10bc81dee81b682a0648dddb9489c7e18c5eb5014fa2dd8bac7b4beeb"
+    },
+    "images/inline/codex-conversion-fixture-bilingual.png": {
+      "bytes": 15452,
+      "sha256": "fa90b3a759371f638c313a7ebd2a5cf673fa7e62ccbaba2335c2c2fdc0f86d1c"
+    },
+    "images/inline/codex-conversion-fixture-flow.png": {
+      "bytes": 1746,
+      "sha256": "547cc508d2c6351c5656e6a6243761634b7af64a8cd97e98995f809b06dce293"
+    }
+  },
+  "format": "confluence-synthetic-export-fixture/v1",
+  "generated_paths": [
+    "_codex_conversion_fixture.html",
+    "_codex_conversion_fixture_assets/theme.css",
+    "_codex_conversion_fixture_assets/theme.js",
+    "_codex_conversion_fixture_child.html",
+    "_codex_conversion_fixture_manifest.json",
+    "_codex_conversion_fixture_toc.html",
+    "attachments/999999999999/1/codex-conversion-fixture-briefing.pptx",
+    "attachments/999999999999/1/codex-conversion-fixture-config.yaml",
+    "attachments/999999999999/1/codex-conversion-fixture-data.csv",
+    "attachments/999999999999/1/codex-conversion-fixture-data.json",
+    "attachments/999999999999/1/codex-conversion-fixture-flow.drawio",
+    "attachments/999999999999/1/codex-conversion-fixture-fragment.html",
+    "attachments/999999999999/1/codex-conversion-fixture-guide.md",
+    "attachments/999999999999/1/codex-conversion-fixture-message.eml",
+    "attachments/999999999999/1/codex-conversion-fixture-metrics.xlsx",
+    "attachments/999999999999/1/codex-conversion-fixture-notes.txt",
+    "attachments/999999999999/1/codex-conversion-fixture-requirements.docx",
+    "attachments/999999999999/1/codex-conversion-fixture-scan.pdf",
+    "attachments/999999999999/1/codex-conversion-fixture-text.pdf",
+    "attachments/999999999999/1/codex-conversion-fixture-vector.svg",
+    "images/inline/codex-conversion-fixture-bilingual.png",
+    "images/inline/codex-conversion-fixture-flow.png"
+  ],
+  "namespace": "codex-conversion-fixture"
+}

@@ -1,0 +1,3 @@
+Synthetic attachment notes
+English: preserve this line.
+Русский: сохранить эту строку.
